@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some quæries to be answered in writing or print, by the masters, heads, fellows, and tutors of the collegde [sic] they are setting up at Durham. And by Thomas Weld, Rich: Prideaux, Sam: Hammond, Wil: Cole, and Wil: Durant, priests of Newcastle. / From them that are in scorne called Quakers.</title>
+         </titleStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93513</idno><idno type="EEBO-CITATION">43078152</idno>
+  <idno type="VID">151736</idno>
+  <idno type="EEBO-PROQUEST">2240917514</idno>
+  
+            <idno type="STC">Wing S4564</idno>
+            <idno type="STC">ESTC R233475</idno>
+            <idno type="OCLC">43078152</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151736)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2274:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some quæries to be answered in writing or print, by the masters, heads, fellows, and tutors of the collegde [sic] they are setting up at Durham. And by Thomas Weld, Rich: Prideaux, Sam: Hammond, Wil: Cole, and Wil: Durant, priests of Newcastle. / From them that are in scorne called Quakers.</title>
+                  <author>Weld, Thomas, 1590?-1662.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London, :</pubPlace>
+                  <date>1654?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication information suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  England --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="queries">
+            <pb n="1" facs="tcp:151736:1"/>
+            <head>Some <hi>Quaeries</hi> to be answered in Writing or Print, by the Masters, Heads, Fellows, and Tutors of the Collegde they are setting up at <hi>Durham.</hi>
+            </head>
+            <head>
+               <hi>And by</hi> Thomas Weld, Rich: Prideaux, Sam: Hammond, Wil: Cole, <hi>and</hi> Wil: Durant, <hi>Priests of</hi> Newcastle.</head>
+            <byline>From them that are in scorne called <hi>Quakers.</hi>
+            </byline>
+            <p>FRiend, thou and you that are going to set up a Colledge, and a Schoole to make Ministers; First, Are not those that you doe make, made by Man? Are not you men that make them, by Authors, by old Fathers, by Books, by Tongues, by Languages? Is not this all comprehended by the Spirit by which the Apostles, the Prophets were made Ministers by the will of God, who fathomed all the Inventions upon the Earth? And doe not you think that the same Spirit, and such as be in it, and made by the will of God in these days and ages compre<g ref="char:EOLhyphen"/>hends and fathoms all you that make Ministers at your Schooles and Colledges, and such as are sent out to men, by you who are men? How can you, or dare you say then, they are made by the will of God?</p>
+            <p>And is not all the wearinesse, travels, sorrows, pains, burthens, leads, by that nature of inventions; and is not all this set up by that which transgresseth the pure principle of God in all men, that which may be known of God made manifest in men which God hath shewed unto them? as all men doe come to that which may be known of God manifest in them, which God hath shewed unto them, they retain God in their knowledge, and retain his Covenant of Light, of Grace, of Peace, of Life, him by whom the World was made, before it was made, glorified with the Father before the World began; and doth any come to Peace, but who comes to this, out of burthens, troubles, sorrows, pains,
+<pb n="2" facs="tcp:151736:2"/>travels, and comes first to that which may be known of God manifest in them? Does any retain God in his Knowledge, and his Covenant, but who first comes to that which may be known of God manifest in them? Then is not Prophesie opened? Is not Revelation received? Does any upon the Earth come from their inventions, but who first comes to that which may be known of God, manifest in them? Does not all Jews Gen<g ref="char:EOLhyphen"/>tiles, Christians upon the Earth, while they are from that which may be known of God, manifest in them, follow their Inventi<g ref="char:EOLhyphen"/>ons, and invent, and then set up that which they have inven<g ref="char:EOLhyphen"/>ted for others to worship? And is not all Jews, Gentiles, Chri<g ref="char:EOLhyphen"/>stians, comprehended all in one nature here? And does not that burthen, bondage, which is set up by Jews, Christians, Gentiles, which they have invented from that mind and nature, which is reprobated from that which may be known of God, made manifest in them? And is not that in Jews, Gentiles Chri<g ref="char:EOLhyphen"/>stians, that quencheth the spirit, despiseth Prophesie, denies Reve<g ref="char:EOLhyphen"/>lation, which is from that which may be known of God, made manifest in them which God hath shewed unto them? And does not all the breaches upon the Earth stand here? Are not all Schools, Colledges, &amp; Ministers, made by the will of Man, by Books old Au<g ref="char:EOLhyphen"/>thors, old Fathers, writings here, and stand in this nature and place, while that they are all from that which may be known of God, made manifest in them, which God hath shewed unto them? and their works, burthens, bondages, loadens, and are from that nature that prisons the just; Does not all Ministers, Colledges, Schooles, Chancellors, Doctors, take upon them to doe that which belongs to God, to make Ministers while they are from that of God mani<g ref="char:EOLhyphen"/>fest in them? Does not all the fruits of these Ministers made by Schooles, Colledges, Books, Doctors, Classes, (as you call them) de<g ref="char:EOLhyphen"/>clare and manifest themselves, that they have not profited the peo<g ref="char:EOLhyphen"/>ple at all? For is not the very Nation like <hi>Sodom,</hi> and spiritual <hi>Egipt,</hi> and <hi>Gomorrah?</hi> Are not all these makers of Ministers, and made Ministers, before-mentioned by Books, Schooles, Colledges, from that which may be known of God, made manifest in them, seeing they doe not profit the people at all? Must not all Ministers made by the will of God be brought first to that which may be known of God made manifest in them? Was not all the Prophets, the
+<pb n="3" facs="tcp:151736:2"/>Apostles of God, and his Ministers, taught of him, and led by the Spirit of God in them, to give forth the Scriptures? then to get their writings, and to make ministers by their writings, by Books, and by Schooles and Colledges, they that are not brought to that which may be known of God, made manifest in them to learn of God, as they did which gave forth the Scriptures; are not your Mi<g ref="char:EOLhyphen"/>nisters here, when you have made them, as the false Prophets, that use their Tongues and God never spoke to them, and boast them<g ref="char:EOLhyphen"/>selves of other mens labours and lines, and so from their measure in their own perticular? and are not all these come under reproof? Does not the Ministers made by the will of God, which are brought to that which may be known of God, made manifest in them, reach to that of God made manifest in all men? And are not all your Mi<g ref="char:EOLhyphen"/>nisters that you make, and have made by your Schooles, and Col<g ref="char:EOLhyphen"/>ledges, old Fathers, Authors, Books, and Writings, and Languages, such as care not for the Sheep, care not for the Flock of God, but rule as Lords over it, with cruelty and force, which wanders up and down for Tithes, and Stipends, augmentations, and Glebe Lands, gifts and rewards, and great sums of money, admiring mens per<g ref="char:EOLhyphen"/>sons, because of advantage? and is not all this, the maker of the Minister, and the Minister when he is made, from that which may be known of god made manifest in them, and reach not to that of God in others? And are not these them that deny Revelation, and Inspiration, as the Apostles had, and were in? And is not all will-worship, feined humility, and selfe-righteousnesse here in this, and amongst them, and such, that be from that which may be known of God made manifest in them, which God hath shewed unto them? Does any come out of selfe-righteousnesse, feined humili<g ref="char:EOLhyphen"/>ty, will-worship, upon the Earth, Professors, People, Teachers, or makers of Teachers, but who comes to that which may be known of God, made manifest in them, with which they must retain God in their Knowledge, and retain his Covenant, Christ Jesus the righteousnesse of God, of whom having heard and learned, then true humility, and in whom, people comming to walk, Christ the truth, they come to worship God in truth, and in spirit, that the will is out of? Now, if you say, you Doctors, Masters of Colledges and Schooles, which have your Books, your Authors, your Langua<g ref="char:EOLhyphen"/>ges, your old Fathers, that you doe not make <hi>Ministers:</hi> No? Doe
+<pb n="4" facs="tcp:151736:3"/>not under you they receive their degrees, as Batchelers of Arts, <hi>Masters</hi> of Arts, Batchelers in Divinity, and Doctors in Divinity, and so come they not to their degrees, before they goe forth from you? And are not all the Schooles, Colledges, Doctors, set up since the Apostacy, amongst the Apostates, amongst the errors from the Apostles Doctrine, such as went forth from them, and so set up by them that be all in transgression, from that which may be known of God, made manifest in them?</p>
+            <p>How, and who was the first rise of your Schooles, your Col<g ref="char:EOLhyphen"/>ledges? Were not they such as went first from that which may be known of God, that should have learned of God, and been taught of God, and then taught others, and declared to others, what they had heard and seen? Had the Prophets, the Apostles, Colledges, Schooles, Doctors, Batchelors of Art? Were they made Ministers by such things, by Schooles, by Colledges, the Prophets, the Apo<g ref="char:EOLhyphen"/>stles, or they that be in the transgression of the life, that they the Prophets and Apostles were in?</p>
+            <p>And are not all your Ministers that you make by your Schooles, by your Colledges, by your Books, by your Tongues, such as seeks for their gain from their quarter; greedy dumbe Dogs, that can never have enough, and Divines for money, and Teaches for the Fleece, and makes a prey upon the People? and them that are lovers of themselves, and covetous, boasters of other mens lines, and makes merchandize of the Scriptures, admiring mens per<g ref="char:EOLhyphen"/>sons, because they doe advantage them; and Teach for Stipends, Tythes, Glebe Lands, Augmentations, and for a Price, and sets it up almost in every Parish. And are they not such as goes in <hi>Cains, Jezebels</hi> way, the Beasts, and false Prophets, strikers, given to Wine, greedy of filthy lucre, warring against the flesh and blood; perswading the Magistrate to cast the bodies of the saints into Prison, apostatized from the Apostles and true Ministers, who wrastled not against flesh and blood? And such as are transgres<g ref="char:EOLhyphen"/>sors of Christs Doctrine, called of men <hi>Masters,</hi> Proud, Pharisee-like, with Rings, Cuffs, white Boot-hose-tops, Ribbons, and wearing of Gold, poor mens sonnes pearked up in pride, who are sent thither to learn a Trade, thereby to get a living, and then poor People must maintain them. Are not these the eaters of the fat, that make a Prey of the People, from whom God hath promised,
+<pb n="5" facs="tcp:151736:3"/>He will deliver his sheep from their mouthes? <hi>Ezek.</hi> 31.</p>
+            <p>That after you say they goe from you Doctors, Masters of Col<g ref="char:EOLhyphen"/>ledges and Schooles, some of them turne to be Justices, and some of them Physitians, and others of them Lawyers: Are not all these made Lawyers, Physitians, Justices, then, by your Books, Writings, Schooles, and your wills? Is not their first rise and ground there? And can any receive the wisedome of God, by which all things were made and created, which gives them the vertue of the Creatures, the wisedome of the Creation, to feele it, and see it, but who coms first to that which may be known of God, made manifest in them, the light of Christ Jesus, the wise<g ref="char:EOLhyphen"/>dome of God, by which all things were made? Or can any know how to doe justly, or come into justice, or into that which is just, which is the authority over the unjust, answerable and agreeable to that of God in every man, measuring, weighing things answerable to it, that that of God in every man may answer, but who first comes to that which may be known of God, made mani<g ref="char:EOLhyphen"/>fest in them, which God hath shewed unto them, and with that comes to retaine God in their Knowledge from whence it comes? Can any Lawyer be expert in the Law, that is just, good, equall, doe as they would be done by, to reade, expound it, open it, lay it in its place, but who first comes to that which may be known of God, made manifest in them, which <hi>God</hi> hath shewed unto them, with which they must retaine <hi>God</hi> in their Knowledge, who is the Law-giver, and gives understanding to use it, and lay it upon the lawlesse, who goe from that which may be knowne of <hi>God</hi> made manifest in them, under the occasion of the Law? For who are led by the <hi>Spirit of God,</hi> are not under it. Are not all Physitians, Lawyers, or Justices, made by Schooles and Col<g ref="char:EOLhyphen"/>ledges, and Books, and Languages out in that estate from that which may be <hi>knowne of God,</hi> in the wisedome below, from that which giveth true understanding, feeling every thing in its cause and place, effect and disease? so being in the Naturall, learne from naturals, gained from the visible, Books, Languages, Schools, Colledges; and this makes Ministers, this makes Physitians, this makes Lawyers. Is not this all in the sensuall state, and where the god of the World blinds people, amongst whom is not true mea<g ref="char:EOLhyphen"/>sure, is not true weight, is not true judgement, is not true wise<g ref="char:EOLhyphen"/>dome;
+<pb facs="tcp:151736:4"/>but this is all attained by naturalls, by visibles; that <hi>makes</hi> Justices, <hi>makes</hi> Lawyers, <hi>makes</hi> Physitians, <hi>makes</hi> Ministers, is not this all fathomed with the <hi>Spirit of God,</hi> the just principle, which brings to receive the wisedome from <hi>God,</hi> the Law from <hi>God,</hi> the true understanding, the true Knowledge, and true Wisedome, that which fathoms all that which men have <hi>known,</hi> and learned na<g ref="char:EOLhyphen"/>naturally, by Books, by Schooles, by Colledges by old Fathers, by Authors, by Languages? Is not all the unjust judgement, unjust measure, unjust weight, and false Ballances there? Does not all People which goe from that which may be <hi>knowne of God,</hi> made manifest in them, runne thither, cry them up, hold them up, and set them up, the maker of the Minister, and the Minister; the maker of the Physitians, and Lawyers, and Justices, and them when they are made? Cannot <hi>Ministers</hi> be made without your Schooles, Colledges, Doctors? Cannot Physitians be made, and Justices be made, and Lawyers, to let the People see when they doe the thing that is not just one to another? and doe ye think that <hi>God</hi> will not redeem it out of your hands, th t you shall not be the <hi>makers</hi> of them, and <hi>take</hi> the glory to himselfe, and <hi>make</hi> them himselfe, and to them give power, and staine your Pride, staine your glory, and bring your beauty to contempt? Are not the Physitians that are made, and Ministers, and Lawyers, and Justices without your Colledges, Schooles, Doctors, Books, and old Fathers, brought all to the just Principle of <hi>God</hi> in them, that which may be <hi>knowne of God</hi> manifest in them, which <hi>God</hi> hath shewed unto them, with which they retaine God in their Knowledge, retaine his wisedome, have the vertue of the Creation opened, the ground and Center of things, their rise and operation, and the working of every thing in its pro<g ref="char:EOLhyphen"/>perty, receiving the Law from God, which is just, perfect, the higher power, higher and before the transgressor was? And can any come to this, but who comes first to that which may be known of God made manifest in them? And is not here the gate where the Judge sits, which retaines God in his Knowledge, and comes to answer that of God in every man, which God hath shewed to them; which when they doe the thing that is not convenient, not righteous, or worthy of death; then the higher power goes upon them: here is the Judge an executer of the
+<pb n="7" facs="tcp:151736:4"/>Law upon the evill doer, a terror to the evill doer, and a prayse to them that doe well, who are led by the Spirit of God, and coms to retaine God in their Knowledge, and comes from under the occasion of the Law? And are not all Ministers, Lawyers, Ju<g ref="char:EOLhyphen"/>stices, Physitians, made by Schooles, Colledges, Doctors, Books, old Authors, made as the Heathen was, which were all from that which may be known of God, made manifest in them? How was <hi>Moses</hi> made? how was <hi>David</hi> made? or how were the Prophets made, or the Apostles? Yea; But if you say, we have not the same Spirit, the same Inspiration and Revelation as they had; but we have all their Words, and by their Words we make Mini<g ref="char:EOLhyphen"/>sters, and so for that end are Colledges set up, and so by degrees we make them; and when they come to their Degrees we send them forth; Immediate Revelation is ceased; Immediate Inspi<g ref="char:EOLhyphen"/>ration is ceased now, which was in the Apostles, and we have onely the Coppies of the Writings of the Prophets, of the Apo<g ref="char:EOLhyphen"/>stles, and <hi>Moses,</hi> and the Coppies of Christs Words, and the Writings and Expositions of the Fathers; but the Life, and the Spirit that was in them, as they had, that is not to be looked for in our dayes. Here in this you are shewed that you be all Apostates, in the Apostacy, Apostated from the life of the Pro<g ref="char:EOLhyphen"/>phets, Christ, and the Apostles, having the Forme, but wanting the Power; and to be such as the Prophet <hi>Ieremy</hi> concludes, to be false Prophets, that use their Tongues, and say, <hi>The Lord hath said it, when the Lord never spoke to them.</hi> Can Ministers, Doctors, Teachers, Physitians, Lawyers, Iustices, that are made by you, that are from that which may be known of God made manifest in them, ever have the Wisedome of the Creation, just weight, just measure, to reach, to answer that which may be knowne of <hi>God</hi> made manifest in all men? And is not all Wisedome, Knowledge, Understanding, in makers of Ministers, makers of Physitians, Lawyers, Iustices, whatsoever, while they are from that which may be known of <hi>God</hi> manifest in them, which <hi>God</hi> hath shewed unto them, in the transgressors wise<g ref="char:EOLhyphen"/>dome below in the Earth? Answer, and let these Quęries be answered in Writing; these are but touches of things that are to come to try you.</p>
+         </div>
+         <div type="queries">
+            <pb n="8" facs="tcp:151736:5"/>
+            <opener>
+               <salute>Tho: Weld, Rich: Prideaux, Sam: Ham<g ref="char:EOLhyphen"/>mond, Will: Cole, Will: Durant.</salute>
+            </opener>
+            <opener>
+               <salute>Friends,</salute> Here are a few <hi>Quaeries</hi> for you to answer in Writing.</opener>
+            <p>VVHat is that Death that hath passed over all men?</p>
+            <p>What is that Serpents Head, that must be bruised and what is that Seed, that the seed of the Woman must bruise?</p>
+            <p>What is Conscience?</p>
+            <p>What is the Soule of man, which the <hi>Minister</hi> is to watch for</p>
+            <p>What is the first Principle of the pure Religion, which th<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Scripture saith, is a <hi>Mistery?</hi>
+            </p>
+            <p>What is Christ?</p>
+            <p>What is the Gospel that lasts for ever?</p>
+            <p>What is Hell? and with what is it seen? and where is it? and what is the Death and Hell, that must be cast into the Lake of Fire?</p>
+            <p>What is the bottomelesse Pit? and where is it?</p>
+            <p>What is the Mother of Harlots? and what is her Cup, that all Nations have drunke of?</p>
+            <p>What is the Beast that all that dwelt upon the Earth wor<g ref="char:EOLhyphen"/>shipped? and what are all his Names?</p>
+            <p>What is the Word?</p>
+            <p>What is the Law and Testimony?</p>
+            <p>Can any one know the Scriptures of truth given forth from the Spirit of God which was in the Saints, but first they must come to that which may be known of God, manifest in their owne particulers, which God hath shewed unto them?</p>
+            <p>Did ever any of the <hi>Ministers</hi> of the Spirit, Teach for great
+<pb n="9" facs="tcp:151736:5"/>summe of money, Stipends, hundred pounds a Yeare? Or did they abide in the Pharisees steps, called of men <hi>Masters,</hi> which Christ saith, <hi>Be not ye called Master, for you have one Master, even Christ, and ye are all Brethren?</hi>
+            </p>
+            <p>Was it not an odious thing in the dayes of the Prophets, for Shepheards then to have a Price? <hi>Isaiah</hi> 56. therefore did not Christ when he sent forth his Apostles, tell them, <hi>They had received freely, and were to give freely againe?</hi> and were these to establish themselves in Townes, and agree with People to stay with them for Prices?</p>
+            <p>Are not all them that admire mens Persons because of ad<g ref="char:EOLhyphen"/>vantage, holds the Faith of Christ with respect of Persons, Teachers for filthy lucre, minds Earthly things, and the love of money, and are Covetuous, such as have Apostatited, and are Apostates from Christ and the Apostles?</p>
+            <p>And has not the true <hi>Ministry</hi> been lost, since the dayes that these Apostates came up as it was in the days of the Apo<g ref="char:EOLhyphen"/>stles?</p>
+            <p>Were not those Apostates from the Prophets of God, that taught for the Fleece, bare rule by their means, Divined for money, sought for their gaine from their quarter, and were Hirelings, seeing the Prophets bad them come without a Price; and Christs words agrees with the Prophets, who was the end of the Prophets, who saith, <hi>Freely ye have received, freely give?</hi>
+            </p>
+            <p>Are <hi>Davids</hi> Quakings, and Fastings, and Cryings, Tremblings and Reproaches, to be given to ignorant People to be sung in <hi>Meeter,</hi> yea, or nay?</p>
+            <p>Is the same inspiration and Revelation to be looked for in these dayes, as was in the Apostles dayes, yea, or nay?</p>
+            <p>Shall Sonnes and Daughters come to Prophesie in this Age, yea, or nay?</p>
+            <p>Is every man that comes into the World enlightened by Christ, that through the light he might beleeve, yea or nay?</p>
+            <p>Have ye heard Gods Voyce from Heaven immediately, or Christs, as the Prophets and Apostles did?</p>
+            <p>Shall man, while he is upon the Earth, be made free from sin, and have the body of sin put off, and come to that which is perfect, yea or nay?</p>
+            <pb n="10" facs="tcp:151736:6"/>
+            <p> What Scripture have you for sprinkling Infants?</p>
+            <p>Is not the Priest-hood changed that took Tythes, and the Commandement disanulled that gave them?</p>
+            <p>Is not the Sonne of God come, the end of all similitudes, after the Order of <hi>Melchisedeck,</hi> not after the Order of <hi>Aaron?</hi>
+            </p>
+            <p>Can you Prove the payment of Tythes any where from the Apostles Doctrine?</p>
+            <p>VVas it not the Papists that set up your Churches? was there not a Crosse upon the end of them, and in your Church<g ref="char:EOLhyphen"/>yard?</p>
+            <p>Did not the same Papists that set up Churches and Crosses set up Pulpit, set up Ministers, set up Tythes?</p>
+            <p>Had not the Papists the same Colledges and Schools to make their <hi>Ministers</hi> by, by which you were made?</p>
+            <p>VVas it not the States that caused the Surplusse to be thrown off and threw downe Crosses in your Churches and Church<g ref="char:EOLhyphen"/>yards?</p>
+            <p>Have not you been in this, time changers, servers of times for Stipends, for Augmentations, Tythes, and Glebe Lands?</p>
+            <p>Have you the same spirit and power, as the Prophets and Apostles had?</p>
+            <p>Is not the Cause that all People be broken to parties, and Sects, and Names, because they runne into the words, before they have the life; and because their <hi>Ministers and Leaders</hi> has caused them all to erre, <hi>which runne, and the Lord never sent them; and spake, and the Lord never spoke to them,</hi> but run for Tythes and Stipends, from Schools and Colledges, made by mans will?</p>
+            <p>Did the Apostles, when they Preached, use to goe with Gold Rings on their Fingers, Cuffs, white Boot-hose-tops, Points, and Ribbons about them?</p>
+            <p>VVere the Apostles called <hi>Master, Master Matthew, Master Luke, Master Iohn, Master Peter, Master Timothy, Master Titus?</hi>
+            </p>
+            <p>Is your Practice to be measured by Scripture, Christ, the Prophets, and Apostles?</p>
+            <pb n="11" facs="tcp:151736:6"/>
+            <p> VVill you be tryed by it, and proved by it, without ad<g ref="char:EOLhyphen"/>ding or diminishing?</p>
+            <p>Is the VVord of God to be added to, or taken from?</p>
+            <p>What is the Crosse of Christ that the Apostles gloried in, by which he was Crucified to the world?</p>
+            <p>What is the ground of Necromancy, Inchanting, Sorcery, Witch-craft, Familiar Spirits, false Prophets, Antichrist? and from whence had all these their rise and root?</p>
+            <p>What is the Devill, the Enmity, the wicked One, the Ad<g ref="char:EOLhyphen"/>versary? and from whence had he his root?</p>
+            <p>What is the Tree of Knowledge of Good and Evill? and with what is it seen? and how may People see it? and know it? and whether it be a transgression to take of it now, yea or nay?</p>
+            <p>What is the ground of will-worship, selfe-righteousnesse, feigned-humility? and what is their root? and from what doe they spring? Answer in plain words.</p>
+            <p>Is that the Condemnation which is the Light?</p>
+            <p>What is the matter that all Professors of Christ are not one? is it not, because they are out of him?</p>
+            <p>What? and where is it, that must give People the light of the Knowledge of God, the glory of God in the face of Jesus Christ?</p>
+            <p>Is not all Knowledge gathered from Books, old Fathers Schooles, Colledges, Naturall; while the People be from that which may be knowne of God, made manifest in them?</p>
+            <p>Can any retaine God in their Knowledge, Doctor, Teacher, Minister, makers of Ministers, People, or Professors, while they are from that, which may be knowne of God, made ma<g ref="char:EOLhyphen"/>nifest in them?</p>
+            <p>Are they true worshippers, that worship not God in truth; which the Devill is out off, and in the Spirit, which is the bond of Peace, which the Scriptures were given forth from, in which the Saints had unity, and it brought them to learn of God, which mortifies sinne and corruption, Circumciseth and Baptizeth?</p>
+            <pb n="12" facs="tcp:151736:7"/>
+            <p> Are not all worships that be out of the Spirit, and out of the Truth, as the Devill is?</p>
+            <p>Was not the worship of <hi>Samariah,</hi> and <hi>Jerusalem,</hi> and the Mountaine where <hi>Jacobs</hi> well was, beyond the worship at the Houses which the Papists set up?</p>
+            <p>Is the first day the Sabbath? did not the Apostles bring the People off the <hi>Jewes</hi> Sabbath, Priest-hood, Temple, Pul<g ref="char:EOLhyphen"/>pits, Tythes?</p>
+            <p>Are these Priests now, Sabbaths, Pulpits, Templet, Tythes, so called, to be measured with the <hi>Iewes,</hi> which God did command, or with the <hi>Gentiles</hi> which God never comman<g ref="char:EOLhyphen"/>ded?</p>
+            <p>Must not all People upon the Earth come to that which may be knowne of God made manifest in them, which God hath shewed unto them, which lets them see when they doe the thing that's not convenient, not righteous, or the thing that is worthy of death, before they retaine God in their Knowledge, or retaine his Covenant?</p>
+            <p>Did not all the <hi>Ministers</hi> made by the will of man, which err'd from Christ, the Prophets, and Apostles, runne into Covetousnesse, and got the Forme of godlinesse? has not the Prophets, Christ, and the Apostles, by markes declared them in Scripture? Is not that it which you would have your life, practice, wayes, fruits, judged by the declaration of the holy men of God, the Doctrine of Christ, his Pro<g ref="char:EOLhyphen"/>phets, and Apostles?</p>
+            <p>Are we in this Age to hold up such as Teach for filthy lucre, the love of money, seek for the Fleece, Divine for money, Hirelings, seeking for their gaine from their quarter, never have enough, such as beare rule by their meanes, cal<g ref="char:EOLhyphen"/>led of men <hi>Master,</hi> a marke that Christ gives to the mul<g ref="char:EOLhyphen"/>titude to know their blinde guides, which weare their long Robes, have the upper most roomes at Feasts? are such to be held up in this Age now, yea or nay, that Christ, and the Prophets, and Apostles cryed against, being found in their steps? and are not you such?</p>
+            <p>VVhat is the Record? what is the Originall? what is
+<pb n="13" facs="tcp:151736:7"/>the Key of Knowledge the Pharisees tooke away?</p>
+            <p>VVhat is the Eye that the god of the world has blin<g ref="char:EOLhyphen"/>ded?</p>
+            <p>What is the Eye that Christ blinds?</p>
+            <p>What is the ground, rise, and operation of the wisedom that is to be confounded, and Knowledge that is to perish, and understanding that must come to naught?</p>
+            <p>Whether shall Christ the one Offering, perfected for ever them that are sanctified?</p>
+            <p>Whether or no the blood of Jesus Christ the Son of God, doth cleanse from all sin those that walke in the light?</p>
+            <p>Whether or no the new Covenant doth not blot out all sinne and transgression, in which man comes to have peace with God?</p>
+            <p>Whether plaine men, Fisher-men, Heardsmen, Tentma<g ref="char:EOLhyphen"/>kers, may not Preach, made by the will of God, in this Age, as they did in Ages past, though never came at Col<g ref="char:EOLhyphen"/>ledges, and it may be, cannot Reade outward Letters?</p>
+            <p>Whether you owne the Order and Practice of the true Church amongst the true Beleevers, true Christians, before the Apostacy, in your Church. that if any thing be revealed to another that sits by, let the first hold his peace; for you may all Prophesie one by one, that all may learne, and all may be comforted; for God is not the Author of confusion, but of Peace, as in all the Churches of the Saints?</p>
+            <p>Whether or no this Practice and Order is not confusion amongst you and your Church, if any thing be revealed to another that fits by, to bid one of you hold your peace; you would cry to the Magistrate, and say, <hi>Take him away, he has disturbed me?</hi> Are you not here such as despises Prophesie, and quench the Spirit, and limit the Holy One? and doth not this Practice before-mentioned, set your Church all in an uproare? and that which is Order, Comforting, Edification in the true Church, is confusion amongst you in your Church, and teaches both, and sets you all in an up-roare and confu<g ref="char:EOLhyphen"/>sion? so is not that Anti-Christ, Anti-Church, Anti-Ministry that is against the Apostles Ministry?</p>
+            <pb n="14" facs="tcp:151736:8"/>
+            <p> Are not all those Ministers, Teachers, Pastors, Doctors, that would have the bodies of people prisoned, beaten, stocked, knocked downe, whipped, banished, such as be in <hi>Caines, Corahs, Balaams, Jesabels, Anti-Christs, Beast,</hi> and <hi>false Pro<g ref="char:EOLhyphen"/>phets</hi> way, wrastlers against flesh and blood, weapons carnall, not spirituall, such as are to be turned away from, that has the forme of godlinesse, but wants the power, that has not affection to nature, that are <hi>Covetuous</hi> lovers of themselves, and <hi>Proud,</hi> and disapproved by <hi>Pauls</hi> Doctrine to <hi>Timothy,</hi> to <hi>Titus,</hi> who saith, <hi>They must not be Strikers, given to Wine, given to filthy luere, and Covetuousnesse?</hi> and is not kere like People, like Priests? And did not the Apostles say, <hi>We wrastle not against flesh and blood, but against Principalities, Powers, spiri<g ref="char:EOLhyphen"/>tuall wickednesses in high places; and their weapons were not carnall, but spirituall, mighty through God, to the pulling downe of strong holds?</hi> Now are not those Ministers that are strikers, persecuters, causes others to be sent to Prisons, stocked, whipped, stoned, knocked downe, the haire plucked off their heads, their weapons carnall, wrastles with flesh and blood, out of the Apostles Doctrine?</p>
+            <p>Does not Christ say, <hi>Goe Preach and Baptize?</hi> and doe not you <hi>Baptize,</hi> and the <hi>Pray?</hi> doe not you halt in this thing? Is your sprinkling Infants a command of God, tell where it is Written or Printed, give us Scripture for it, else acknowledge your Tradition, and it to be a Heathenish Cu<g ref="char:EOLhyphen"/>stome; and that which you have done to people, you have done contrary to Scripture, Christ, and the Apostles, from whom you have no example nor command?</p>
+            <p>Is not all your Faith gotten from Books, stories, readings, a dead faith, which is not the gift of God, that gives Victo<g ref="char:EOLhyphen"/>ry over the world, in which is the Saints unity, that purifies the heart held in a pure conscience?</p>
+            <p>Doe you beleeve that any shall come into that state in this your age, that they shall not need any man to teach them, but the anoynting which abideth in them? are not they seducers that draw from that?</p>
+            <p>Doe you beleeve that any shall come into that state in
+<pb n="15" facs="tcp:151736:8"/>this your age, that they shall not need to say one to his Neighbour, <hi>Know the Lord; but they shall all know him from the greatest to the least?</hi>
+            </p>
+            <p>Doe ye beleeve in that Christ that doth enlighten every man that comes into the world? Is he the Saviour?</p>
+            <p>Doe ye owne that salvation that is wrought out by feare and trembling? Doe you owne Trembling, Quaking, and Shaking?</p>
+            <p>Are not all these Ministers, Teachers, Pastors, of the Flesh? Have they not sowed to the Flesh, that so much cor<g ref="char:EOLhyphen"/>ruption may be, and is to be reaped, in Townes, in Steeple-houses, High-wayes, and Markets, that there is so great a crop, and such a large field of it, that such fruits appeares? Doe not they that be of the Spirit, and sow to the Spirit, of the Spirit come to reape life eternall? And did not they bring people to the anoynting in them, to the word in them, and light in them? Was the Apostles and Prophets of God ever tyed to any place, or bargained with the people for time, and so Preach by the glasse, and have a carnall Bell to gather people together?</p>
+            <p>And doe ye not beleeve that God will staine the glory, and pride of man, and bring people to the like of that, which people has professed in words, that which was the Prophets, Christs, and the Apostles life? Was not Christ, the Prophets and Apostles in unity in the Spirit, that gave forth the Scriptures and in agreement?</p>
+            <p>What is the matter that all these Sects, Judgements, Opi<g ref="char:EOLhyphen"/>nions, cannot agree about Christs, the Prophets and Apo<g ref="char:EOLhyphen"/>stles words? is it not because they be out of their lives, and the Spirit they were in, and so doe they not want the bond of peace? And is not that the bond of peace? And doe they not want the unity of the Spirit? And is not that the unity of the Spirit, that Christ, the Prophets, and Apostles were in?</p>
+            <p>Did Christ, the Prophets, Apostles, Saints, give forth Scri<g ref="char:EOLhyphen"/>ptures, that in after Ages people should make a trade of them, for one hundred pounds, two hundred pounds a yeare a
+<pb n="16" facs="tcp:151736:9"/>piece, or more, if they could get it; and Stocke, Whip, and Prison them that did oppose them? how love they enemies here? convincing gainsayers, stopping the mouthes of gain. sayers? Are not such opposers of the truth, and out of the life of it, and their mouthes must be stopped?</p>
+            <p>Is not all false peaces in the world, out of the Covenant of light, which enlightneth every man that comes into the world? Does any come into peace with God, and one with another, but who comes into the Covenant of light, which every man that comes into the world is enlightned with<g ref="char:EOLhyphen"/>all?</p>
+            <p>And is not all false Peace in that which rests in outward things in that nature? Is not that the ground of them that comes not unto the unchangeable, by which the world was made, the Covenant of God?</p>
+            <p>And is not all false Religions out of that?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
